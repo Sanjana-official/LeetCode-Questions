@@ -1,16 +1,16 @@
 [QUESTIONS]
 
-ARRAY - 3<br>
-TWO-POINTERS - 2
-STRING - 1
-BIT MANIPULATION - 1
-SORTING - 
-BINARY SEARCH - 1
-PREFIX SUM - 1
-SLIDING WINDOW - 1
-DIVIDE CONQUER - 
-RECURSION - 
-BACKTRACKING - 
+ARRAY - 3 (easy level)<br>
+TWO-POINTERS - 2 (easy level)<br>
+STRING - 1 (easy level)<br>
+BIT MANIPULATION - 1 (easy level)<br>
+SORTING - <br>
+BINARY SEARCH - 1 (easy level)<br>
+PREFIX SUM - 1 (easy level)<br>
+SLIDING WINDOW - 1 (easy level)<br>
+DIVIDE CONQUER -<br> 
+RECURSION - <br>
+BACKTRACKING - <br>
 
 
 
