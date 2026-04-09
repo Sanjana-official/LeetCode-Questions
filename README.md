@@ -6,7 +6,7 @@ STRING - 2 (easy level)<br>
 BIT MANIPULATION - 1 (easy level)<br>
 SORTING - 1 (easy level)<br>
 BINARY SEARCH - 2 (easy level)<br>
-PREFIX SUM - 1 (easy level)<br>
+PREFIX SUM - 2 (easy level)<br>
 SLIDING WINDOW - 1 (easy level)<br>
 DIVIDE CONQUER -<br> 
 RECURSION - <br>
