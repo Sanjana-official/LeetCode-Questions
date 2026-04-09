@@ -9,7 +9,7 @@ BINARY SEARCH - 2 (easy level)<br>
 PREFIX SUM - 2 (easy level)<br>
 SLIDING WINDOW - 2 (easy level)<br>
 DIVIDE CONQUER -<br> 
-RECURSION - <br>
+RECURSION - 1 (easy level)<br>
 BACKTRACKING - <br>
 
 
