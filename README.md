@@ -1,6 +1,6 @@
 [QUESTIONS]
 
-ARRAY - 4 (easy level)<br>
+ARRAY - 5 (easy level)<br>
 TWO-POINTERS - 4 (easy level)<br>
 STRING - 2 (easy level)<br>
 BIT MANIPULATION - 1 (easy level)<br>
