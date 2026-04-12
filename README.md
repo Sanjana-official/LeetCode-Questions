@@ -1,11 +1,11 @@
-[QUESTIONS]
+[QUESTIONS] TOTAL - 22
 
 ARRAY - 5 (easy level)<br>
 TWO-POINTERS - 4 (easy level)<br>
 STRING - 3 (easy level)<br>
 BIT MANIPULATION - 1 (easy level)<br>
 SORTING - 1 (easy level)<br>
-BINARY SEARCH - 2 (easy level)<br>
+BINARY SEARCH - 3 (easy level)<br>
 PREFIX SUM - 2 (easy level)<br>
 SLIDING WINDOW - 2 (easy level)<br>
 DIVIDE CONQUER -<br> 
