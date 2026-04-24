@@ -1,7 +1,7 @@
-[QUESTIONS] TOTAL - 22
+[QUESTIONS] TOTAL - 23
 
 ARRAY - 5 (easy level)<br>
-TWO-POINTERS - 4 (easy level)<br>
+TWO-POINTERS - 5 (easy level)<br>
 STRING - 3 (easy level)<br>
 BIT MANIPULATION - 1 (easy level)<br>
 SORTING - 2 (easy level)<br>
